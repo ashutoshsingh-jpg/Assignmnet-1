@@ -10,7 +10,7 @@
 | **Batch Number**                  | 2B                                           |
 | **Assignment Number**             | Assignment - 10                                    |
 | **Email Address**                 | ashutoshsinghshiva57@gmail.com              |
-| **Public GitHub Repository Link** | https://github.com/ashutoshsingh-jpg/Assignmnet-1/tree/main/Assignment_10-main   |
+| **Public GitHub Repository Link** | https://github.com/ashutoshsingh-jpg/Assignmnet-1/edit/main/Assignment_10-main/README.md   |
 | **Render Deployment URL**         | `https://heartdiseasedeployment-kswe.onrender.com` |
 
 ---
